@@ -1,0 +1,33 @@
+C:\Users\AsharSultan\source\repos\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe.config
+C:\Users\AsharSultan\source\repos\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe
+C:\Users\AsharSultan\source\repos\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.pdb
+C:\Users\AsharSultan\source\repos\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.AssemblyReference.cache
+C:\Users\AsharSultan\source\repos\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\AsharSultan\source\repos\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.frmHome.resources
+C:\Users\AsharSultan\source\repos\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Properties.Resources.resources
+C:\Users\AsharSultan\source\repos\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.GenerateResource.cache
+C:\Users\AsharSultan\source\repos\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.CoreCompileInputs.cache
+C:\Users\AsharSultan\source\repos\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.exe
+C:\Users\AsharSultan\source\repos\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.pdb
+C:\Users\AsharSultan\source\repos\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.UI.frmUsers.resources
+C:\Users\AsharSultan\source\repos\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.UI.frmDonors.resources
+C:\Users\AsharSultan\source\repos\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.UI.frmLogin.resources
+C:\Users\AsharSultan\source\repos\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.UI.frmSplash.resources
+C:\Users\AsharSultan\Desktop\Blood Donation Bank\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe.config
+C:\Users\AsharSultan\Desktop\Blood Donation Bank\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe
+C:\Users\AsharSultan\Desktop\Blood Donation Bank\Blood Bank Management System\bin\Debug\Blood Bank Management System.pdb
+C:\Users\AsharSultan\Desktop\Blood Donation Bank\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.AssemblyReference.cache
+C:\Users\AsharSultan\Desktop\Blood Donation Bank\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\AsharSultan\Desktop\Blood Donation Bank\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.UI.frmDonors.resources
+C:\Users\AsharSultan\Desktop\Blood Donation Bank\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.frmHome.resources
+C:\Users\AsharSultan\Desktop\Blood Donation Bank\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.PL.frmPatients.resources
+C:\Users\AsharSultan\Desktop\Blood Donation Bank\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Properties.Resources.resources
+C:\Users\AsharSultan\Desktop\Blood Donation Bank\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.UI.frmLogin.resources
+C:\Users\AsharSultan\Desktop\Blood Donation Bank\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.UI.frmSplash.resources
+C:\Users\AsharSultan\Desktop\Blood Donation Bank\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.UI.frmUsers.resources
+C:\Users\AsharSultan\Desktop\Blood Donation Bank\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.GenerateResource.cache
+C:\Users\AsharSultan\Desktop\Blood Donation Bank\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.CoreCompileInputs.cache
+C:\Users\AsharSultan\Desktop\Blood Donation Bank\Blood Bank Management System\obj\Debug\Blood Bank Management System.exe
+C:\Users\AsharSultan\Desktop\Blood Donation Bank\Blood Bank Management System\obj\Debug\Blood Bank Management System.pdb
+C:\Users\AsharSultan\Desktop\Blood Donation Bank\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.PL.frmViewPatients.resources
+C:\Users\AsharSultan\Desktop\Blood Donation Bank\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.PL.frmLoginPatient.resources
